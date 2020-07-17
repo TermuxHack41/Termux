@@ -4,7 +4,7 @@ Private SMS-Bomber
 - apt update && apt upgrade
 - pkg install python
 - apt install git
-- git clone https://github.com/batiscuff/duplo-bomber
+- git clone https://github.com/TermuxHack41/Termux
 - cd duplo-bomber
 - pip3 install -r requirements.txt
 # Start
