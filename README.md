@@ -5,7 +5,7 @@ Private SMS-Bomber
 - pkg install python
 - apt install git
 - git clone https://github.com/TermuxHack41/Termux
-- cd duplo-bomber
+- cd Termux
 - pip3 install -r requirements.txt
 # Start
 python3 duplo_spam.py
